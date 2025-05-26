@@ -1,8 +1,8 @@
 {
   "lang": "en-us",
-  "name": "Core Gaming App",
-  "short_name": "Core Gaming",
-  "description": "The Gaming Platform for more play. Get more with Core.",
+  "name": "Roller Coaster Builder 3D",
+  "short_name": "RCB3D",
+  "description": "Design, test, and ride your own thrilling roller coasters in Roller Coaster Builder 3D! Whether you want towering loops, insane drops, or smooth curves, create the ultimate amusement park experience with intuitive building tools and realistic physics. Let your imagination soar and craft the ride of a lifetime!",
   "start_url": "./",
   "background_color": "#2f3d58",
   "theme_color": "#2f3d58",
