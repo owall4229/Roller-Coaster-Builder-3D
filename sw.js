@@ -1,4 +1,4 @@
-const CACHE_NAME = `core-gaming-app`;
+const CACHE_NAME = `Roller Coaster Builder 3D`;
     
 // Use the install event to pre-cache all initial resources.
 self.addEventListener('install', event => {
